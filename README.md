@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Tshepo Ngobeni
-- 👀 I’m interested in app and web development
-- 🌱 I’m currently learning app devs
-- 💞️ I’m looking to collaborate on app devs
-- 📫 How to reach me tshepongobeni03@gmail.com
+I am a Full Stack Developer  from South Africa.
 
-<!---
-TwiceSA/TwiceSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Tshepo Ngobeni
+
+🔭 I would like to work as a Software Engineer and contribute to frontend and backend for building applications.
+
+🌱 Exploring Technical Content Writing.
+
+🌱 I’m currently learning React Native
+
+⚡ In my free time, I solve problems on CodeWars and develop personal projects.
+
+📫How to reach me: tshepongobeni03@gmail.com
